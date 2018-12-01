@@ -1,2 +1,2 @@
 # myTaskManager
-First application
+web application
