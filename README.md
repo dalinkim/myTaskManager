@@ -1,2 +1,2 @@
-# myTaskManager
+# Basic Task Manager
 web application
