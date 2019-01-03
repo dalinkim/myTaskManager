@@ -1,2 +1,3 @@
 # Basic Task Manager
-web application
+
+Basic task manager web application using HTML, CSS, Bootstrap, and jQuery following tutorial.
